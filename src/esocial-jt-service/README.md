@@ -1,4 +1,4 @@
-O **esocial-jt-service** é o módulo principal do sistema eSocial na Justiça do Trabalho, que recebe dados de ocorrências da vida funcional dos trabalhadores/servidores e os comunica ao sistema eSocial governametal central [eSocial-Gov](https://portal.esocial.gov.br/).
+O **esocial-jt-service** é o módulo principal do sistema eSocial na Justiça do Trabalho, que recebe dados de ocorrências da vida funcional dos trabalhadores/servidores e os comunica ao sistema eSocial governamental central [eSocial-Gov](https://portal.esocial.gov.br/).
 
 ## Características
 
